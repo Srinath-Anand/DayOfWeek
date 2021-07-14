@@ -1,5 +1,5 @@
 # DayOfWeek
-This is the Official repository for the DayOfWeek Python Package.
+This is the Official repository for the documentation of the DayOfWeek Python Package.
 ## How to Use ##
 1. Install the Package using pip:
     `pip install DayOfWeek` in a Terminal/CMD window.
