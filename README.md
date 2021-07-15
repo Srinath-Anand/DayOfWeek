@@ -5,8 +5,8 @@ This is the Official repository for the documentation of the DayOfWeek Python Pa
     `pip install DayOfWeek` in a Terminal/CMD window.
 2. Create a new .py file with the following:
     ```
-    from DayOfWeek import Weekday
+    from DayOfWeek.WeekDay import Day
     d = input('Enter Date: ')
-    Weekday.Day(d)
+    print(Day(d))
     ```   
  3. Execute the program and enjoy !
