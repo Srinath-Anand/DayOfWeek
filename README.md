@@ -12,6 +12,6 @@ This is the Official repository for the documentation of the DayOfWeek Python Pa
  3. Execute the program and enjoy !
 
 ## Screenshots
-![spyder1](https://user-images.githubusercontent.com/71964994/132985157-e6122fbf-ea06-4b73-bcde-f6ef252e4cba.png)
+![spyder1](https://user-images.githubusercontent.com/71964994/132985254-ee402f92-438d-4b5f-9c33-40ecaad59c54.png)
 ![spyder2](https://user-images.githubusercontent.com/71964994/132985163-8044596c-e46f-4cfa-88af-4818ae9e0954.png)
 
