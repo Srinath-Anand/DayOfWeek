@@ -7,7 +7,7 @@ This is the Official repository for the documentation of the DayOfWeek Python Pa
     ```
     from DayOfWeek.WeekDay import Day
     d = input('Enter Date: ')
-    print(Day(d))
+    Day(d)
     ```   
  3. Execute the program and enjoy !
 
